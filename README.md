@@ -1,2 +1,2 @@
 # Python Calculator
- Built a calculator using Python.
+ Built a fully functional calculator using Python.
